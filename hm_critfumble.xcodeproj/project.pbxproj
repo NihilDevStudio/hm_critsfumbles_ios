@@ -114,8 +114,6 @@
 		BBB5D048188AF85E00853772 /* hm_critfumble */ = {
 			isa = PBXGroup;
 			children = (
-				BBB5D051188AF85E00853772 /* AppDelegate.h */,
-				BBB5D052188AF85E00853772 /* AppDelegate.m */,
 				BBB5D054188AF85E00853772 /* Main_iPhone.storyboard */,
 				BBB5D057188AF85E00853772 /* Main_iPad.storyboard */,
 				BBB5D05A188AF85E00853772 /* ViewController.h */,
@@ -129,6 +127,8 @@
 		BBB5D049188AF85E00853772 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				BBB5D051188AF85E00853772 /* AppDelegate.h */,
+				BBB5D052188AF85E00853772 /* AppDelegate.m */,
 				BBB5D04A188AF85E00853772 /* hm_critfumble-Info.plist */,
 				BBB5D04B188AF85E00853772 /* InfoPlist.strings */,
 				BBB5D04E188AF85E00853772 /* main.m */,
